@@ -1,7 +1,6 @@
 # 👋 Hello there, I'm Honore Munyemana  
 ### _Advanced Accountant | Information Management Student | System Analyst in Progress | Mobile & Web Developer_
 
----
 
 ### 💡 About Me
 
@@ -12,8 +11,6 @@ I’m Honore, an **Advanced Accountant** currently pursuing a degree in **Inform
 - 📊 Currently learning: **Data Analysis**
 - 🧠 Getting certified as: **Scrum Master (Article26)**
 - 🎯 Career goal: Become a world-class **System Analyst**
-
----
 
 ### 🛠️ Tech Stack
 
@@ -27,8 +24,6 @@ I’m Honore, an **Advanced Accountant** currently pursuing a degree in **Inform
 | 📊 Data Tools | Excel, Power BI, basic Python (Pandas, Matplotlib)  |
 | 🎥 Content     | Canva, InShot, CapCut, ChatGPT                      |
 
----
-
 ### 🚀 Projects I'm Working On
 
 - ♻️ **Waste Management App**  
@@ -40,15 +35,11 @@ I’m Honore, an **Advanced Accountant** currently pursuing a degree in **Inform
 - 🔐 **Security Simulation**  
   _Kali Linux + Hydra + Ubuntu Server for ethical hacking & mitigation._
 
----
-
 ### 📈 GitHub Stats
 
 ![Honore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=honore-munyemana&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honore-munyemana&layout=compact&theme=radical)
-
----
 
 ### 📚 Certifications & Learning
 
@@ -57,15 +48,13 @@ I’m Honore, an **Advanced Accountant** currently pursuing a degree in **Inform
 - 🧑‍🎓 **Content Creation** – Alison (Completed)
 - 💼 **Real-World Project Contributor** – School + Personal Projects
 
----
 
 ### 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/honore-munyemana) *(optional – update if available)*
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/honore/)
+- 📧 Email: honoremushya@gmail.com
 - 🌍 Portfolio: Coming soon...
 
----
 
 > _“With code and vision, we can shape a better future.”_  
 > — Honore Munyemana
