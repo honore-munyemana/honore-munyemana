@@ -43,6 +43,11 @@ Flutter-based app that scans waste types and rewards responsible disposal behavi
 ### 🎓 E-learning LMS Platform + Ticketing System  
 Full-stack system (Spring Boot + React) for learning and issue management.
 
+### 🧠 SmartLife Companion 🌍📱
+
+A feature-rich Flutter app combining productivity, geolocation, health tracking, and customization. Originally a class project, it evolved into a personal tool and portfolio star.
+
+
 ### 📊 Expense Tracker  
 Helps small businesses manage finances using PostgreSQL backend.
 
