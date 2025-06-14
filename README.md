@@ -44,7 +44,7 @@ I’m Honore, an **Advanced Accountant** currently pursuing a degree in **Inform
 ### 📚 Certifications & Learning
 
 - 📊 **Currently Learning**: Data Analysis
-- ✅ **Scrum Master Certification** *already got it! * – Article26
+- ✅ **Scrum Master Certification** already got it! – Article26
 - 🧑‍🎓 **Content Creation** – Alison (Completed)
 - 💼 **Real-World Project Contributor** – School + Personal Projects
 
